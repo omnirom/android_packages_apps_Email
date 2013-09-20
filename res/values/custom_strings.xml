@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2013 The OmniROM Project
+
+  Parts Copyright (C) SlimROM
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Notifications in general preferences -->
+    <string name="category_general_notification_preferences">Notification buttons</string>
+    <string name="general_preference_notification_mark_as_read_label">Mark as read</string>
+    <string name="general_preference_notification_mark_as_read_summary">Show mark as read button on new email notifications</string>
+    <string name="general_preference_notification_delete_label">Delete</string>
+    <string name="general_preference_notification_delete_summary">Show delete button on new email notifications</string>
+    <string name="general_preference_notification_reply_label">Reply</string>
+    <string name="general_preference_notification_reply_summary">Show reply button on new email notifications</string>
+</resources>

@@ -615,6 +615,8 @@
     <string name="account_settings_data_usage">Data usage</string>
     <!-- On Settings screen, section heading -->
     <string name="account_settings_policies">Security policies</string>
+    <!-- On Settings screen, notify on every message pop-up menu label -->
+    <string name="account_settings_notify_every_message_label">Notify for every message</string>
 
     <string name="system_folders_title">System folders</string>
     <string name="system_folders_trash_title">Trash folder</string>
